@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сменные ссылки</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+            background: radial-gradient(circle, #1a1a2e, #16213e);
+            color: #ffffff;
+        }
+        .btn-container {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .btn {
+            padding: 12px 25px;
+            cursor: pointer;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+            background: linear-gradient(45deg, #6a11cb, #2575fc);
+            color: white;
+            transition: 0.3s;
+        }
+        .btn:hover {
+            background: linear-gradient(45deg, #2575fc, #6a11cb);
+        }
+        .links {
+            margin-top: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+        }
+        .link-btn {
+            display: block;
+            padding: 12px;
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+            background: linear-gradient(45deg, #6a11cb, #2575fc);
+            border-radius: 5px;
+            text-align: center;
+            transition: 0.3s;
+        }
+        .link-btn:hover {
+            background: linear-gradient(45deg, #6a11cb, #2575fc);
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.1);
+        }
+        h1 {
+            background: linear-gradient(45deg, #6a11cb, #6a11cb);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        @media (max-width: 600px) {
+            .btn-container { flex-direction: column; }
+            .btn { width: 90%; padding: 15px; font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Fribbels</h1>
+        <div class="btn-container">
+            <button class="btn" onclick="openLink(700431688)">Getsuga</button>
+            <button class="btn" onclick="openLink(718149053)">Farewell</button>
+            <button class="btn" onclick="openLink(700592438)">Ammiteus</button>
+        </div>
+        
+        <div class="links">
+            <a class="link-btn" href="https://homdgcat.wiki/sr/shadow?lang=EN" target="_blank">Апок</a>
+            <a class="link-btn" href="https://homdgcat.wiki/sr/chaos?lang=EN" target="_blank">Зеркало</a>
+            <a class="link-btn" href="https://homdgcat.wiki/sr/fiction?lang=EN" target="_blank">ПФ</a>
+            <a class="link-btn" href="https://homdgcat.wiki/sr/future" target="_blank">Сливы от HOMDGCAT</a>
+            <a class="link-btn" href="https://starrailstation.com/en/characters" target="_blank">Все персы</a>
+            <a class="link-btn" href="https://starrailstation.com/en/warp#char_event" target="_blank">Крутки</a>
+            <a class="link-btn" href="https://www.prydwen.gg/star-rail/tier-list" target="_blank">ТирЛист</a>
+        </div>
+    </div>
+    
+    <script>
+        function openLink(id) {
+            window.open(`https://fribbels.github.io/hsr-optimizer#showcase?id=${id}`, '_blank');
+        }
+    </script>
+</body>
+</html>
