@@ -29,6 +29,7 @@ jobs:
         run: |
             git config --global user.email "Ammite@users.noreply.github.com"
             git config --global user.name "Ammite"
+            git pull --rebase https://$PAT@github.com/Ammite/hsr_websites.git main
             git add promocodes.json
             git commit -m "Обновление списка промокодов" || exit 0
             git push origin HEAD:main
