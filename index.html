@@ -121,6 +121,8 @@
               container.innerHTML = '<p>Пока нет активных промокодов.</p>';
               return;
             }
+            console.log(data);
+            console.log(typeof(data));
             data.forEach(item => {
               const codeElement = document.createElement('div');
               codeElement.innerHTML = `<strong>${item.code}</strong>: ${item.description}`;
