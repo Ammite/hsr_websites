@@ -76,14 +76,14 @@
 <body>
     <div class="container">
         <h1>Fribbels</h1>
-        <div class="btn-container">
+        <div id="fribbles-links" class="btn-container">
             <button class="btn" onclick="openLink(700431688)">Getsuga</button>
             <button class="btn" onclick="openLink(718149053)">Farewell</button>
             <button class="btn" onclick="openLink(700592438)">Ammiteus</button>
             <button class="btn" onclick="openLink(719764104)">Zhyd</button>
         </div>
         
-        <div class="links">
+        <div id="links" class="links">
             <a class="link-btn" href="https://homdgcat.wiki/sr/shadow?lang=EN" target="_blank">Апок</a>
             <a class="link-btn" href="https://homdgcat.wiki/sr/chaos?lang=EN" target="_blank">Зеркало</a>
             <a class="link-btn" href="https://homdgcat.wiki/sr/fiction?lang=EN" target="_blank">ПФ</a>
@@ -92,6 +92,9 @@
             <a class="link-btn" href="https://starrailstation.com/en/warp#char_event" target="_blank">Крутки</a>
             <a class="link-btn" href="https://www.prydwen.gg/star-rail/tier-list" target="_blank">ТирЛист</a>
         </div>
+
+        <div id="promocodes-container"></div>
+
     </div>
     
     <script>
@@ -99,5 +102,18 @@
             window.open(`https://fribbels.github.io/hsr-optimizer#showcase?id=${id}`, '_blank');
         }
     </script> 
+    <script>
+        fetch('promocodes.json')
+          .then(response => response.json())
+          .then(data => {
+            const container = document.getElementById('promocodes-container');
+            data.forEach(item => {
+              const codeElement = document.createElement('div');
+              codeElement.innerHTML = `<strong>${item.code}</strong>: ${item.description}`;
+              container.appendChild(codeElement);
+            });
+          })
+          .catch(error => console.error('Ошибка загрузки промокодов:', error));
+      </script>
 </body> 
 </html>

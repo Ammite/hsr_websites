@@ -1,0 +1,32 @@
+name: Update Promocodes
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Запуск каждый день в полночь
+  workflow_dispatch:  # Возможность ручного запуска
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run script
+        run: python parse_promocodes.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add promocodes.json
+          git commit -m "Обновление списка промокодов" || echo "No changes to commit"
+          git push
