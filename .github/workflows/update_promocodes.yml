@@ -24,13 +24,6 @@ jobs:
         run: python parse_promocodes.py
 
       - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add promocodes.json
-          git commit -m "Обновление списка промокодов" || echo "No changes to commit"
-          git push
-      - name: Commit and push changes
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
