@@ -93,7 +93,9 @@
             <a class="link-btn" href="https://www.prydwen.gg/star-rail/tier-list" target="_blank">ТирЛист</a>
         </div>
 
-        <div id="promocodes-container"></div>
+        <div id="promocodes-container">
+            <h3>Промокоды:</h3>
+        </div>
 
     </div>
     
@@ -124,8 +126,8 @@
             console.log(data);
             console.log(typeof(data));
             data.forEach(item => {
-              const codeElement = document.createElement('div');
-              codeElement.innerHTML = `<strong>${item}</strong>`;
+              const codeElement = document.createElement('ul');
+              codeElement.innerHTML = `<li><a href="https://hsr.hoyoverse.com/gift?code=${item}" target="_blank">${item}</a></li>`;
               container.appendChild(codeElement);
             });
           })
