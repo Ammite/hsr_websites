@@ -125,7 +125,7 @@
             console.log(typeof(data));
             data.forEach(item => {
               const codeElement = document.createElement('div');
-              codeElement.innerHTML = `<strong>${item.code}</strong>: ${item.description}`;
+              codeElement.innerHTML = `<strong>${item}</strong>`;
               container.appendChild(codeElement);
             });
           })
