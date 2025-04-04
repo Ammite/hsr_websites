@@ -104,16 +104,33 @@
     </script> 
     <script>
         fetch('promocodes.json')
-          .then(response => response.json())
+          .then(async response => {
+            const text = await response.text();
+            if (!text) return []; // если файл пустой
+            try {
+              return JSON.parse(text);
+            } catch (e) {
+              console.error('Ошибка парсинга JSON:', e);
+              return [];
+            }
+          })
           .then(data => {
             const container = document.getElementById('promocodes-container');
+            if (!data.length) {
+              container.innerHTML = '<p>Пока нет активных промокодов.</p>';
+              return;
+            }
             data.forEach(item => {
               const codeElement = document.createElement('div');
               codeElement.innerHTML = `<strong>${item.code}</strong>: ${item.description}`;
               container.appendChild(codeElement);
             });
           })
-          .catch(error => console.error('Ошибка загрузки промокодов:', error));
+          .catch(error => {
+            console.error('Ошибка загрузки промокодов:', error);
+            const container = document.getElementById('promocodes-container');
+            container.innerHTML = '<p>Не удалось загрузить промокоды.</p>';
+          });
       </script>
 </body> 
 </html>
