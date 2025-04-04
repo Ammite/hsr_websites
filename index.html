@@ -71,12 +71,36 @@
             .btn-container { flex-direction: column; }
             .btn { width: 90%; padding: 15px; font-size: 18px; }
         }
+
+        .btn-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 10px;
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 10px;
+        }
+
+        .btn {
+            padding: 10px;
+            font-size: 14px;
+            background-color: #444;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .btn:hover {
+            background-color: #666;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Fribbels</h1>
-        <div id="fribbles-links" class="btn-container">
+        <div id="fribbles-links" class="btn-container btn-grid">
             <button class="btn" onclick="openLink(700431688)">Getsuga</button>
             <button class="btn" onclick="openLink(718149053)">Farewell</button>
             <button class="btn" onclick="openLink(700592438)">Ammiteus</button>
@@ -108,7 +132,6 @@
         fetch('promocodes.json')
           .then(async response => {
             const text = await response.text();
-            console.log(text);
             if (!text) return []; // если файл пустой
             try {
               return JSON.parse(text);
@@ -123,8 +146,6 @@
               container.innerHTML = '<p>Пока нет активных промокодов.</p>';
               return;
             }
-            console.log(data);
-            console.log(typeof(data));
             data.forEach(item => {
               const codeElement = document.createElement('ul');
               codeElement.innerHTML = `<li><a href="https://hsr.hoyoverse.com/gift?code=${item}" target="_blank">${item}</a></li>`;
