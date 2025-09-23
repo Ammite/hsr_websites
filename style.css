@@ -25,6 +25,14 @@ body {
 .btn:hover {
     background: linear-gradient(45deg, #2575fc, #6a11cb);
 }
+#fribbles {
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+#fribbles h1 {
+    margin-top: 0;
+}
 .links {
     margin-top: 20px;
     display: flex;
@@ -77,12 +85,6 @@ body {
     border-radius: 10px;
     background: rgba(255, 255, 255, 0.1);
 }
-h1 {
-    background: linear-gradient(45deg, #6a11cb, #6a11cb);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 @media (max-width: 600px) {
     .btn-container { flex-direction: column; }
     .btn { width: 90%; padding: 15px; font-size: 18px; }
@@ -105,4 +107,104 @@ h1 {
 
 a{
     color: white;
+}
+
+/* Timeline */
+.timeline {
+    position: relative;
+    display: grid;
+    gap: 12px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+.timeline-row {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    align-items: center;
+    gap: 12px;
+}
+.timeline-label {
+    text-align: left;
+    font-weight: bold;
+}
+.timeline-bar-wrapper {
+    position: relative;
+    height: 18px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 9px;
+    overflow: hidden;
+}
+.timeline-bar {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, #6a11cb, #2575fc);
+    border-radius: 9px;
+}
+.today-marker {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #ffeb3b;
+    box-shadow: 0 0 8px rgba(255, 235, 59, 0.8);
+    pointer-events: none;
+}
+.timeline-hint {
+    text-align: left;
+    opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+    .timeline-row {
+        grid-template-columns: 120px 1fr;
+    }
+}
+
+/* Calendar */
+.calendar {
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.calendar h3 {
+    margin-top: 0px;
+}
+.calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+}
+.calendar-weekdays {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+.calendar-day {
+    padding: 10px 8px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.08);
+    text-align: left;
+    min-height: 46px;
+}
+.calendar-day.out-month {
+    opacity: 0.5;
+}
+.calendar-day.today {
+    outline: 2px solid #ffeb3b;
+    box-shadow: 0 0 8px rgba(255, 235, 59, 0.8);
+}
+.calendar-day.active-day {
+    background: linear-gradient(45deg, rgba(106, 17, 203, 0.6), rgba(37, 117, 252, 0.6));
+}
+.calendar-legend {
+    margin-top: 8px;
+    text-align: left;
+    opacity: 0.8;
+    font-size: 14px;
 }

@@ -1,0 +1,1716 @@
+[
+    {
+        "version": "3.7",
+        "phase": "1",
+        "dates": {
+            "start": "2025-11-04",
+            "end": "2025-11-26"
+        },
+        "featured_5": [
+            {
+                "name": "Cyrene",
+                "url": "https://img.game8.co/4272911/679a98e07d44ddf17dbfe5da56996fca.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.6",
+        "phase": "2",
+        "dates": {
+            "start": "2025-10-15",
+            "end": "2025-11-04"
+        },
+        "featured_5": [
+            {
+                "name": "Permansor Terrae",
+                "url": "https://img.game8.co/4240461/e8573a2679b1355402aa468944a8ec59.png/show"
+            },
+            {
+                "name": "Anaxa",
+                "url": "https://img.game8.co/4105938/a7a620b0c9969474e506afc27d57874b.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.6",
+        "phase": "2",
+        "dates": {
+            "start": "2025-10-15",
+            "end": "2025-11-04"
+        },
+        "featured_5": [
+            {
+                "name": "Life Should Be Cast to Flames",
+                "url": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show"
+            },
+            {
+                "name": "Though Worlds Apart",
+                "url": "https://img.game8.co/4277406/86af4390e708c3030f4cad71987f5e41.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.6",
+        "phase": "1",
+        "dates": {
+            "start": "2025-09-23",
+            "end": "2025-10-15"
+        },
+        "featured_5": [
+            {
+                "name": "Evernight",
+                "url": "https://img.game8.co/4240167/179a9e473f3e2dcc0242b45458605f87.png/show"
+            },
+            {
+                "name": "The Herta",
+                "url": "https://img.game8.co/4044949/9986df56ea421e73acd7201b3efe5a22.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.6",
+        "phase": "1",
+        "dates": {
+            "start": "2025-09-23",
+            "end": "2025-10-15"
+        },
+        "featured_5": [
+            {
+                "name": "To Evernight",
+                "url": "https://img.game8.co/4277407/8e5524cd539c73337ec02a8636ea6acd.png/show"
+            },
+            {
+                "name": "Into the Unreachable Veil",
+                "url": "https://img.game8.co/4075013/0b96eb6e95dbd921d379cbe0a3d0047a.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanners",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Archer",
+                "url": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show"
+            },
+            {
+                "name": "Saber",
+                "url": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanners",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "The Hell Where Ideals Burn",
+                "url": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+            },
+            {
+                "name": "A Thankless Coronation",
+                "url": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.5",
+        "phase": "2",
+        "dates": {
+            "start": "2025-09-02",
+            "end": "2025-09-23"
+        },
+        "featured_5": [
+            {
+                "name": "Cerydra",
+                "url": "https://img.game8.co/4198742/c7e8758b57025c346759b7f2db800f3d.png/show"
+            },
+            {
+                "name": "Silver Wolf",
+                "url": "https://img.game8.co/3899419/afffa6f75d327369e2ee20796d0942ff.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.5",
+        "phase": "2",
+        "dates": {
+            "start": "2025-09-02",
+            "end": "2025-09-23"
+        },
+        "featured_5": [
+            {
+                "name": "Incessant Rain",
+                "url": "https://img.game8.co/3753378/6d43cf267df127aadcc883438c266373.png/show"
+            },
+            {
+                "name": "Epoch Etched in Golden Blood",
+                "url": "https://img.game8.co/4240012/bb7a5c8c13f25e7886fdd2d2eb3a79a1.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.5",
+        "phase": "1",
+        "dates": {
+            "start": "2025-08-12",
+            "end": "2025-09-02"
+        },
+        "featured_5": [
+            {
+                "name": "Hysilens",
+                "url": "https://img.game8.co/4197866/b8008b5796ced1fec83d66665197b7dd.png/show"
+            },
+            {
+                "name": "Kafka",
+                "url": "https://img.game8.co/3899458/07e1e69d684f3f62496d384c5bab838c.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.5",
+        "phase": "1",
+        "dates": {
+            "start": "2025-08-12",
+            "end": "2025-09-02"
+        },
+        "featured_5": [
+            {
+                "name": "Why Does the Ocean Sing",
+                "url": "https://img.game8.co/4240013/c03c4806652c143f0463a1c66498d208.png/show"
+            },
+            {
+                "name": "Patience Is All You Need",
+                "url": "https://img.game8.co/3753385/f9c9a9b0f83b5ef34c86e813288f39a9.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanners",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Archer",
+                "url": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show"
+            },
+            {
+                "name": "Saber",
+                "url": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanners",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "The Hell Where Ideals Burn",
+                "url": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+            },
+            {
+                "name": "A Thankless Coronation",
+                "url": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.4",
+        "phase": "2",
+        "dates": {
+            "start": "2025-07-23",
+            "end": "2025-08-12"
+        },
+        "featured_5": [
+            {
+                "name": "Firefly",
+                "url": "https://img.game8.co/3872328/d0781159f0e9e5914d76d7ca1462674d.png/show"
+            },
+            {
+                "name": "Jingliu",
+                "url": "https://img.game8.co/3750003/a2907cf7fc468eacd8cdd24122b5eca9.png/show"
+            },
+            {
+                "name": "Blade",
+                "url": "https://img.game8.co/3899480/30b6f624d746270de9ebb362a4ac3c31.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.4",
+        "phase": "2",
+        "dates": {
+            "start": "2025-07-23",
+            "end": "2025-08-12"
+        },
+        "featured_5": [
+            {
+                "name": "The Unreachable Side",
+                "url": "https://img.game8.co/3753384/fb2f1a41db575b4e9cc26517e626c161.png/show"
+            },
+            {
+                "name": "Whereabouts Should Dreams Rest",
+                "url": "https://img.game8.co/3905917/f8a6efbe29b49639384fb0ddfdef905b.png/show"
+            },
+            {
+                "name": "I Shall Be My Own Sword",
+                "url": "https://img.game8.co/3773609/c39250be9628e8d031a85add39235151.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.4",
+        "phase": "1",
+        "dates": {
+            "start": "2025-07-01",
+            "end": "2025-07-23"
+        },
+        "featured_5": [
+            {
+                "name": "Phainon",
+                "url": "https://img.game8.co/4165361/9e36a72f4578bbd75a41f2971f5ec464.png/show"
+            },
+            {
+                "name": "Tribbie",
+                "url": "https://img.game8.co/4074798/ca2244bb4304b47283f0c7d2593a404c.png/show"
+            },
+            {
+                "name": "Sunday",
+                "url": "https://img.game8.co/4010974/4d201b7d582745d60c2eecdaf80c8f0c.png/show"
+            },
+            {
+                "name": "Sparkle",
+                "url": "https://img.game8.co/3808836/a30de2a01761cf7046681553ecd51764.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.4",
+        "phase": "1",
+        "dates": {
+            "start": "2025-07-01",
+            "end": "2025-07-23"
+        },
+        "featured_5": [
+            {
+                "name": "If Time Were a Flower",
+                "url": "https://img.game8.co/4109298/05069f7270f20675584d56d1ebf70a3f.png/show"
+            },
+            {
+                "name": "A Grounded Ascent",
+                "url": "https://img.game8.co/4049244/b1fe087b1461b6e20613dc7b25a07459.png/show"
+            },
+            {
+                "name": "Earthly Escapade",
+                "url": "https://img.game8.co/3827695/1313a3be46ba675d5148a0c212ecdf95.png/show"
+            },
+            {
+                "name": "Thus Burns the Dawn",
+                "url": "https://img.game8.co/4201279/ebc193525e38b25003da8d6f4a3fbaae.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanners",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Archer",
+                "url": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show"
+            },
+            {
+                "name": "Saber",
+                "url": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanners",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "The Hell Where Ideals Burn",
+                "url": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+            },
+            {
+                "name": "A Thankless Coronation",
+                "url": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.3",
+        "phase": "2",
+        "dates": {
+            "start": "2025-06-11",
+            "end": "2025-07-01"
+        },
+        "featured_5": [
+            {
+                "name": "Cipher",
+                "url": "https://img.game8.co/4138632/f57bdd428064adf48a34155895e678e7.png/show"
+            },
+            {
+                "name": "Aglaea",
+                "url": "https://img.game8.co/4045833/e83dc6b2353dd84813ae7c1d0adb14bc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.3",
+        "phase": "2",
+        "dates": {
+            "start": "2025-06-11",
+            "end": "2025-07-01"
+        },
+        "featured_5": [
+            {
+                "name": "Life Should Be Cast to Flames",
+                "url": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show"
+            },
+            {
+                "name": "Baptism of Pure Thought",
+                "url": "https://img.game8.co/3810213/62ca2cf56d62be7f5cd5957aeb13a0be.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.3",
+        "phase": "1",
+        "dates": {
+            "start": "2025-05-20",
+            "end": "2025-06-11"
+        },
+        "featured_5": [
+            {
+                "name": "Hyacine",
+                "url": "https://img.game8.co/4137692/d5bcdd1e7f7a9543dffcdd702e19926a.png/show"
+            },
+            {
+                "name": "The Herta",
+                "url": "https://img.game8.co/4044949/9986df56ea421e73acd7201b3efe5a22.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.3",
+        "phase": "1",
+        "dates": {
+            "start": "2025-05-20",
+            "end": "2025-06-11"
+        },
+        "featured_5": [
+            {
+                "name": "Life Should Be Cast to Flames",
+                "url": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show"
+            },
+            {
+                "name": "Baptism of Pure Thought",
+                "url": "https://img.game8.co/3810213/62ca2cf56d62be7f5cd5957aeb13a0be.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.2",
+        "phase": "2",
+        "dates": {
+            "start": "2025-04-30",
+            "end": "2025-05-20"
+        },
+        "featured_5": [
+            {
+                "name": "Anaxa",
+                "url": "https://img.game8.co/4105938/a7a620b0c9969474e506afc27d57874b.png/show"
+            },
+            {
+                "name": "Dr. Ratio",
+                "url": "https://img.game8.co/3899376/934386d61e7eb73e9beae58e34151e12.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.2",
+        "phase": "2",
+        "dates": {
+            "start": "2025-04-30",
+            "end": "2025-05-20"
+        },
+        "featured_5": [
+            {
+                "name": "Life Should Be Cast to Flames",
+                "url": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show"
+            },
+            {
+                "name": "Baptism of Pure Thought",
+                "url": "https://img.game8.co/3810213/62ca2cf56d62be7f5cd5957aeb13a0be.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.2",
+        "phase": "1",
+        "dates": {
+            "start": "2025-04-08",
+            "end": "2025-04-30"
+        },
+        "featured_5": [
+            {
+                "name": "Castorice",
+                "url": "https://img.game8.co/4104674/c7d4833be32744623796e69cd8955443.png/show"
+            },
+            {
+                "name": "Fugue",
+                "url": "https://img.game8.co/4014497/2b73d729370dd4393da0d12602b01c98.png/show"
+            },
+            {
+                "name": "Jiaoqiu",
+                "url": "https://img.game8.co/3904619/7b4ae13a4cef45c1f969825437ff2244.png/show"
+            },
+            {
+                "name": "Acheron",
+                "url": "https://img.game8.co/3899367/9cedf24bc0ce960e0b3973250dd28c76.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.2",
+        "phase": "1",
+        "dates": {
+            "start": "2025-04-08",
+            "end": "2025-04-30"
+        },
+        "featured_5": [
+            {
+                "name": "Make Farewells More Beautiful",
+                "url": "https://img.game8.co/4141907/82a49c479f56ccb6d4c7e32270f15682.png/show"
+            },
+            {
+                "name": "Along the Passing Shore",
+                "url": "https://img.game8.co/3856783/fb2b58ced54f365fee740adf94a8e185.png/show"
+            },
+            {
+                "name": "Long Road Leads Home",
+                "url": "https://img.game8.co/4049245/d8c69bc8ae4194614d9c6f3f06a01f24.png/show"
+            },
+            {
+                "name": "Those Many Springs",
+                "url": "https://img.game8.co/3937098/c40eda9f4ef13f2ed234f4bd2fc612ac.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.1",
+        "phase": "2",
+        "dates": {
+            "start": "2025-03-19",
+            "end": "2025-04-08"
+        },
+        "featured_5": [
+            {
+                "name": "Mydei",
+                "url": "https://img.game8.co/4074811/d8f806b8713b2d167e2671c4b99278e7.png/show"
+            },
+            {
+                "name": "Huohuo",
+                "url": "https://img.game8.co/3899380/226b90c621a962707100fc840295ae85.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.1",
+        "phase": "2",
+        "dates": {
+            "start": "2025-03-19",
+            "end": "2025-04-08"
+        },
+        "featured_5": [
+            {
+                "name": "Flame of Blood, Blaze My Path",
+                "url": "https://img.game8.co/4109299/a3e7ed65367b5b880eb10ff60e9649b6.png/show"
+            },
+            {
+                "name": "Night of Fright",
+                "url": "https://img.game8.co/3790076/f2e6c91315ef98e768895e104d2c4fed.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.1",
+        "phase": "1",
+        "dates": {
+            "start": "2025-02-25",
+            "end": "2025-03-19"
+        },
+        "featured_5": [
+            {
+                "name": "Tribbie",
+                "url": "https://img.game8.co/4074798/ca2244bb4304b47283f0c7d2593a404c.png/show"
+            },
+            {
+                "name": "Yunli",
+                "url": "https://img.game8.co/3903906/474e8b4ead39923b2e559bb1d0780ade.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.1",
+        "phase": "1",
+        "dates": {
+            "start": "2025-02-25",
+            "end": "2025-03-19"
+        },
+        "featured_5": [
+            {
+                "name": "If Time Were a Flower",
+                "url": "https://img.game8.co/4109298/05069f7270f20675584d56d1ebf70a3f.png/show"
+            },
+            {
+                "name": "Dance at Sunset",
+                "url": "https://img.game8.co/3937100/947a10981cf0e9b981164ee21b521418.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.0",
+        "phase": "2",
+        "dates": {
+            "start": "2025-02-05",
+            "end": "2025-02-25"
+        },
+        "featured_5": [
+            {
+                "name": "Aglaea",
+                "url": "https://img.game8.co/4045833/e83dc6b2353dd84813ae7c1d0adb14bc.png/show"
+            },
+            {
+                "name": "Boothill",
+                "url": "https://img.game8.co/3899342/af65ac2c6e1cd81d4ae61b6375fcc3f6.png/show"
+            },
+            {
+                "name": "Robin",
+                "url": "https://img.game8.co/3899484/9cca679cb587dc8e93fba1823aeca6d5.png/show"
+            },
+            {
+                "name": "Silver Wolf",
+                "url": "https://img.game8.co/3899419/afffa6f75d327369e2ee20796d0942ff.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.0",
+        "phase": "2",
+        "dates": {
+            "start": "2025-02-05",
+            "end": "2025-02-25"
+        },
+        "featured_5": [
+            {
+                "name": "Flowing Nightglow",
+                "url": "https://img.game8.co/3975089/9ff991c04d7357222161135fdbe2e19c.png/show"
+            },
+            {
+                "name": "Time Woven into Gold",
+                "url": "https://img.game8.co/4075009/5173f70aab730123d0854f6c57d35a07.png/show"
+            },
+            {
+                "name": "Sailing Towards A Second Life",
+                "url": "https://img.game8.co/3875056/ab541d3662eae699b993078f5bf17039.png/show"
+            },
+            {
+                "name": "Incessant Rain",
+                "url": "https://img.game8.co/3753378/6d43cf267df127aadcc883438c266373.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.0",
+        "phase": "1",
+        "dates": {
+            "start": "2025-01-14",
+            "end": "2025-02-05"
+        },
+        "featured_5": [
+            {
+                "name": "The Herta",
+                "url": "https://img.game8.co/4044949/9986df56ea421e73acd7201b3efe5a22.png/show"
+            },
+            {
+                "name": "Lingsha",
+                "url": "https://img.game8.co/3934896/550a68a0585d8b5cac8f8c418d659ee9.png/show"
+            },
+            {
+                "name": "Feixiao",
+                "url": "https://img.game8.co/3934366/25477ebd5dd658e55460ee4de57ee35d.png/show"
+            },
+            {
+                "name": "Jade",
+                "url": "https://img.game8.co/3872780/f55e81b379b425ffcaa39465d2d87895.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.0",
+        "phase": "1",
+        "dates": {
+            "start": "2025-01-14",
+            "end": "2025-02-05"
+        },
+        "featured_5": [
+            {
+                "name": "Into the Unreachable Veil",
+                "url": "https://img.game8.co/4075013/0b96eb6e95dbd921d379cbe0a3d0047a.png/show"
+            },
+            {
+                "name": "I Venture Forth to Hunt",
+                "url": "https://img.game8.co/3975085/da697ccc7eb5870fc90a636ee9d06648.png/show"
+            },
+            {
+                "name": "Yet Hope Is Priceless",
+                "url": "https://img.game8.co/3905919/ee8a21fa47bc7d5b48bd0d61814f26da.png/show"
+            },
+            {
+                "name": "Scent Alone Stays True",
+                "url": "https://img.game8.co/3975086/0b0fe6f6b3a2ace99bbc84e5d2954136.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.7",
+        "phase": "2",
+        "dates": {
+            "start": "2024-12-25",
+            "end": "2025-01-14"
+        },
+        "featured_5": [
+            {
+                "name": "Fugue",
+                "url": "https://img.game8.co/4014497/2b73d729370dd4393da0d12602b01c98.png/show"
+            },
+            {
+                "name": "Firefly",
+                "url": "https://img.game8.co/3872328/d0781159f0e9e5914d76d7ca1462674d.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.7",
+        "phase": "2",
+        "dates": {
+            "start": "2024-12-25",
+            "end": "2025-01-14"
+        },
+        "featured_5": [
+            {
+                "name": "Long Road Leads Home",
+                "url": "https://img.game8.co/4049245/d8c69bc8ae4194614d9c6f3f06a01f24.png/show"
+            },
+            {
+                "name": "Whereabouts Should Dreams Rest",
+                "url": "https://img.game8.co/3905917/f8a6efbe29b49639384fb0ddfdef905b.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.7",
+        "phase": "1",
+        "dates": {
+            "start": "2024-12-03",
+            "end": "2024-12-25"
+        },
+        "featured_5": [
+            {
+                "name": "Sunday",
+                "url": "https://img.game8.co/4010974/4d201b7d582745d60c2eecdaf80c8f0c.png/show"
+            },
+            {
+                "name": "Jing Yuan",
+                "url": "https://img.game8.co/3899462/00ff6e32c572242d331ff9d65727d028.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.7",
+        "phase": "1",
+        "dates": {
+            "start": "2024-12-03",
+            "end": "2024-12-25"
+        },
+        "featured_5": [
+            {
+                "name": "Before Dawn",
+                "url": "https://img.game8.co/3648237/7ed80cf60a9dc95d775d8ff49b251201.png/show"
+            },
+            {
+                "name": "A Grounded Ascent",
+                "url": "https://img.game8.co/4049244/b1fe087b1461b6e20613dc7b25a07459.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.6",
+        "phase": "2",
+        "dates": {
+            "start": "2024-11-13",
+            "end": "2024-12-03"
+        },
+        "featured_5": [
+            {
+                "name": "Aventurine",
+                "url": "https://img.game8.co/3899365/ede5865f0e72fa872d5765e0664d78de.png/show"
+            },
+            {
+                "name": "Acheron",
+                "url": "https://img.game8.co/3899367/9cedf24bc0ce960e0b3973250dd28c76.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.6",
+        "phase": "2",
+        "dates": {
+            "start": "2024-11-13",
+            "end": "2024-12-03"
+        },
+        "featured_5": [
+            {
+                "name": "Inherently Unjust Destiny",
+                "url": "https://img.game8.co/3856782/f44f3a523b22d0b423efc82a952e6897.png/show"
+            },
+            {
+                "name": "Along the Passing Shore",
+                "url": "https://img.game8.co/3856783/fb2b58ced54f365fee740adf94a8e185.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.6",
+        "phase": "1",
+        "dates": {
+            "start": "2024-10-22",
+            "end": "2024-11-13"
+        },
+        "featured_5": [
+            {
+                "name": "Rappa",
+                "url": "https://img.game8.co/4029048/53f27f108863a813ae1ca1d22aa50d40.png/show"
+            },
+            {
+                "name": "Imbibitor Lunae",
+                "url": "https://img.game8.co/3731670/80c542f9c4cbf8b42acb5e5b9b7b26b6.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.6",
+        "phase": "1",
+        "dates": {
+            "start": "2024-10-22",
+            "end": "2024-11-13"
+        },
+        "featured_5": [
+            {
+                "name": "Brighter Than the Sun",
+                "url": "https://img.game8.co/3753383/c470daebe31e0d055738d1b0f5209509.png/show"
+            },
+            {
+                "name": "Ninjutsu Inscription - Dazzling Evilbreaker",
+                "url": "https://img.game8.co/4015238/1ba5cdd4ba7f226e065f2d73c256eced.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.5",
+        "phase": "2",
+        "dates": {
+            "start": "2024-10-02",
+            "end": "2024-10-22"
+        },
+        "featured_5": [
+            {
+                "name": "Lingsha",
+                "url": "https://img.game8.co/3934896/550a68a0585d8b5cac8f8c418d659ee9.png/show"
+            },
+            {
+                "name": "Topaz",
+                "url": "https://img.game8.co/3750454/7de457beafd82bf0721a8d29157352b4.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.5",
+        "phase": "2",
+        "dates": {
+            "start": "2024-10-02",
+            "end": "2024-10-22"
+        },
+        "featured_5": [
+            {
+                "name": "Scent Alone Stays True",
+                "url": "https://img.game8.co/3975086/0b0fe6f6b3a2ace99bbc84e5d2954136.png/show"
+            },
+            {
+                "name": "Worrisome, Blissful",
+                "url": "https://img.game8.co/3773608/8d9e5ebb971da6e7e2f718b0b739fc6e.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.5",
+        "phase": "1",
+        "dates": {
+            "start": "2024-09-09",
+            "end": "2024-10-02"
+        },
+        "featured_5": [
+            {
+                "name": "Feixiao",
+                "url": "https://img.game8.co/3934366/25477ebd5dd658e55460ee4de57ee35d.png/show"
+            },
+            {
+                "name": "Robin",
+                "url": "https://img.game8.co/3899484/9cca679cb587dc8e93fba1823aeca6d5.png/show"
+            },
+            {
+                "name": "Black Swan",
+                "url": "https://img.game8.co/3807686/fa433902a0f028d81123aa25322021d3.png/show"
+            },
+            {
+                "name": "Kafka",
+                "url": "https://img.game8.co/3899458/07e1e69d684f3f62496d384c5bab838c.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.5",
+        "phase": "1",
+        "dates": {
+            "start": "2024-09-09",
+            "end": "2024-10-02"
+        },
+        "featured_5": [
+            {
+                "name": "I Venture Forth to Hunt",
+                "url": "https://img.game8.co/3975085/da697ccc7eb5870fc90a636ee9d06648.png/show"
+            },
+            {
+                "name": "Flowing Nightglow",
+                "url": "https://img.game8.co/3975089/9ff991c04d7357222161135fdbe2e19c.png/show"
+            },
+            {
+                "name": "Reforged Remembrance",
+                "url": "https://img.game8.co/3827689/7e76c19f3dfc5ca584075564be1f4c4a.png/show"
+            },
+            {
+                "name": "Patience Is All You Need",
+                "url": "https://img.game8.co/3753385/f9c9a9b0f83b5ef34c86e813288f39a9.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.4",
+        "phase": "2",
+        "dates": {
+            "start": "2024-08-21",
+            "end": "2024-09-09"
+        },
+        "featured_5": [
+            {
+                "name": "Jiaoqiu",
+                "url": "https://img.game8.co/3904619/7b4ae13a4cef45c1f969825437ff2244.png/show"
+            },
+            {
+                "name": "Sparkle",
+                "url": "https://img.game8.co/3808836/a30de2a01761cf7046681553ecd51764.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.4",
+        "phase": "2",
+        "dates": {
+            "start": "2024-08-21",
+            "end": "2024-09-09"
+        },
+        "featured_5": [
+            {
+                "name": "Those Many Springs",
+                "url": "https://img.game8.co/3937098/c40eda9f4ef13f2ed234f4bd2fc612ac.png/show"
+            },
+            {
+                "name": "Earthly Escapade",
+                "url": "https://img.game8.co/3827695/1313a3be46ba675d5148a0c212ecdf95.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.4",
+        "phase": "1",
+        "dates": {
+            "start": "2024-07-30",
+            "end": "2024-08-21"
+        },
+        "featured_5": [
+            {
+                "name": "Yunli",
+                "url": "https://img.game8.co/3903906/474e8b4ead39923b2e559bb1d0780ade.png/show"
+            },
+            {
+                "name": "Huohuo",
+                "url": "https://img.game8.co/3899380/226b90c621a962707100fc840295ae85.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.4",
+        "phase": "1",
+        "dates": {
+            "start": "2024-07-30",
+            "end": "2024-08-21"
+        },
+        "featured_5": [
+            {
+                "name": "Dance at Sunset",
+                "url": "https://img.game8.co/3937100/947a10981cf0e9b981164ee21b521418.png/show"
+            },
+            {
+                "name": "Night of Fright",
+                "url": "https://img.game8.co/3790076/f2e6c91315ef98e768895e104d2c4fed.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.3",
+        "phase": "2",
+        "dates": {
+            "start": "2024-07-10",
+            "end": "2024-07-30"
+        },
+        "featured_5": [
+            {
+                "name": "Jade",
+                "url": "https://img.game8.co/3872780/f55e81b379b425ffcaa39465d2d87895.png/show"
+            },
+            {
+                "name": "Argenti",
+                "url": "https://img.game8.co/3899377/230f8944093a35278f34d877a8540ca3.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.3",
+        "phase": "2",
+        "dates": {
+            "start": "2024-07-10",
+            "end": "2024-07-30"
+        },
+        "featured_5": [
+            {
+                "name": "An Instant Before A Gaze",
+                "url": "https://img.game8.co/3790078/6eea8e6431bbc01a0315a2f94808c75d.png/show"
+            },
+            {
+                "name": "Yet Hope Is Priceless",
+                "url": "https://img.game8.co/3905919/ee8a21fa47bc7d5b48bd0d61814f26da.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.3",
+        "phase": "1",
+        "dates": {
+            "start": "2024-06-18",
+            "end": "2024-07-10"
+        },
+        "featured_5": [
+            {
+                "name": "Firefly",
+                "url": "https://img.game8.co/3872328/d0781159f0e9e5914d76d7ca1462674d.png/show"
+            },
+            {
+                "name": "Ruan Mei",
+                "url": "https://img.game8.co/3789467/e406ee52e1d144247ee182b49288e92a.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.3",
+        "phase": "1",
+        "dates": {
+            "start": "2024-06-18",
+            "end": "2024-07-10"
+        },
+        "featured_5": [
+            {
+                "name": "Whereabouts Should Dreams Rest",
+                "url": "https://img.game8.co/3905917/f8a6efbe29b49639384fb0ddfdef905b.png/show"
+            },
+            {
+                "name": "Past Self in Mirror",
+                "url": "https://img.game8.co/3810214/4a79866c3b9def68fbac58ac320cc335.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.2",
+        "phase": "2",
+        "dates": {
+            "start": "2024-05-29",
+            "end": "2024-06-18"
+        },
+        "featured_5": [
+            {
+                "name": "Boothill",
+                "url": "https://img.game8.co/3899342/af65ac2c6e1cd81d4ae61b6375fcc3f6.png/show"
+            },
+            {
+                "name": "Fu Xuan",
+                "url": "https://img.game8.co/3899471/8f7ee8e852fdc64a8c11f564b14a1d35.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.2",
+        "phase": "2",
+        "dates": {
+            "start": "2024-05-29",
+            "end": "2024-06-18"
+        },
+        "featured_5": [
+            {
+                "name": "Sailing Towards A Second Life",
+                "url": "https://img.game8.co/3875056/ab541d3662eae699b993078f5bf17039.png/show"
+            },
+            {
+                "name": "She Already Shut Her Eyes",
+                "url": "https://img.game8.co/3753381/14ee0114c91a24b903c86f786be71662.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.2",
+        "phase": "1",
+        "dates": {
+            "start": "2024-05-07",
+            "end": "2024-05-29"
+        },
+        "featured_5": [
+            {
+                "name": "Robin",
+                "url": "https://img.game8.co/3899484/9cca679cb587dc8e93fba1823aeca6d5.png/show"
+            },
+            {
+                "name": "Topaz",
+                "url": "https://img.game8.co/3750454/7de457beafd82bf0721a8d29157352b4.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.2",
+        "phase": "1",
+        "dates": {
+            "start": "2024-05-07",
+            "end": "2024-05-29"
+        },
+        "featured_5": [
+            {
+                "name": "Flowing Nightglow",
+                "url": "https://img.game8.co/3975089/9ff991c04d7357222161135fdbe2e19c.png/show"
+            },
+            {
+                "name": "Worrisome, Blissful",
+                "url": "https://img.game8.co/3773608/8d9e5ebb971da6e7e2f718b0b739fc6e.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.1",
+        "phase": "2",
+        "dates": {
+            "start": "2024-04-17",
+            "end": "2024-05-07"
+        },
+        "featured_5": [
+            {
+                "name": "Aventurine",
+                "url": "https://img.game8.co/3899365/ede5865f0e72fa872d5765e0664d78de.png/show"
+            },
+            {
+                "name": "Jingliu",
+                "url": "https://img.game8.co/3750003/a2907cf7fc468eacd8cdd24122b5eca9.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.1",
+        "phase": "2",
+        "dates": {
+            "start": "2024-04-17",
+            "end": "2024-05-07"
+        },
+        "featured_5": [
+            {
+                "name": "Inherently Unjust Destiny",
+                "url": "https://img.game8.co/3856782/f44f3a523b22d0b423efc82a952e6897.png/show"
+            },
+            {
+                "name": "I Shall Be My Own Sword",
+                "url": "https://img.game8.co/3773609/c39250be9628e8d031a85add39235151.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.1",
+        "phase": "1",
+        "dates": {
+            "start": "2024-03-26",
+            "end": "2024-04-17"
+        },
+        "featured_5": [
+            {
+                "name": "Acheron",
+                "url": "https://img.game8.co/3899367/9cedf24bc0ce960e0b3973250dd28c76.png/show"
+            },
+            {
+                "name": "Luocha",
+                "url": "https://img.game8.co/3899457/47c059b71cecd62fc53cce0830ca2097.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.1",
+        "phase": "1",
+        "dates": {
+            "start": "2024-03-26",
+            "end": "2024-04-17"
+        },
+        "featured_5": [
+            {
+                "name": "Along the Passing Shore",
+                "url": "https://img.game8.co/3856783/fb2b58ced54f365fee740adf94a8e185.png/show"
+            },
+            {
+                "name": "Echoes of the Coffin",
+                "url": "https://img.game8.co/3753379/5fc6932293a11b5b77cddc1834f707fe.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.0",
+        "phase": "2",
+        "dates": {
+            "start": "2024-02-29",
+            "end": "2024-03-26"
+        },
+        "featured_5": [
+            {
+                "name": "Sparkle",
+                "url": "https://img.game8.co/3808836/a30de2a01761cf7046681553ecd51764.png/show"
+            },
+            {
+                "name": "Jing Yuan",
+                "url": "https://img.game8.co/3899462/00ff6e32c572242d331ff9d65727d028.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.0",
+        "phase": "2",
+        "dates": {
+            "start": "2024-02-29",
+            "end": "2024-03-26"
+        },
+        "featured_5": [
+            {
+                "name": "Earthly Escapade",
+                "url": "https://img.game8.co/3827695/1313a3be46ba675d5148a0c212ecdf95.png/show"
+            },
+            {
+                "name": "Before Dawn",
+                "url": "https://img.game8.co/3648237/7ed80cf60a9dc95d775d8ff49b251201.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.0",
+        "phase": "1",
+        "dates": {
+            "start": "2024-02-05",
+            "end": "2024-02-29"
+        },
+        "featured_5": [
+            {
+                "name": "Black Swan",
+                "url": "https://img.game8.co/3807686/fa433902a0f028d81123aa25322021d3.png/show"
+            },
+            {
+                "name": "Imbibitor Lunae",
+                "url": "https://img.game8.co/3731670/80c542f9c4cbf8b42acb5e5b9b7b26b6.png/show"
+            }
+        ]
+    },
+    {
+        "version": "2.0",
+        "phase": "1",
+        "dates": {
+            "start": "2024-02-05",
+            "end": "2024-02-29"
+        },
+        "featured_5": [
+            {
+                "name": "Reforged Remembrance",
+                "url": "https://img.game8.co/3827689/7e76c19f3dfc5ca584075564be1f4c4a.png/show"
+            },
+            {
+                "name": "Brighter Than the Sun",
+                "url": "https://img.game8.co/3753383/c470daebe31e0d055738d1b0f5209509.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.6",
+        "phase": "2",
+        "dates": {
+            "start": "2024-01-17",
+            "end": "2024-02-05"
+        },
+        "featured_5": [
+            {
+                "name": "Dr. Ratio",
+                "url": "https://img.game8.co/3899376/934386d61e7eb73e9beae58e34151e12.png/show"
+            },
+            {
+                "name": "Kafka",
+                "url": "https://img.game8.co/3899458/07e1e69d684f3f62496d384c5bab838c.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.6",
+        "phase": "2",
+        "dates": {
+            "start": "2024-01-17",
+            "end": "2024-02-05"
+        },
+        "featured_5": [
+            {
+                "name": "Baptism of Pure Thought",
+                "url": "https://img.game8.co/3810213/62ca2cf56d62be7f5cd5957aeb13a0be.png/show"
+            },
+            {
+                "name": "Patience Is All You Need",
+                "url": "https://img.game8.co/3753385/f9c9a9b0f83b5ef34c86e813288f39a9.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.6",
+        "phase": "1",
+        "dates": {
+            "start": "2023-12-26",
+            "end": "2024-01-17"
+        },
+        "featured_5": [
+            {
+                "name": "Ruan Mei",
+                "url": "https://img.game8.co/3789467/e406ee52e1d144247ee182b49288e92a.png/show"
+            },
+            {
+                "name": "Blade",
+                "url": "https://img.game8.co/3899480/30b6f624d746270de9ebb362a4ac3c31.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.6",
+        "phase": "1",
+        "dates": {
+            "start": "2023-12-26",
+            "end": "2024-01-17"
+        },
+        "featured_5": [
+            {
+                "name": "Past Self in Mirror",
+                "url": "https://img.game8.co/3810214/4a79866c3b9def68fbac58ac320cc335.png/show"
+            },
+            {
+                "name": "The Unreachable Side",
+                "url": "https://img.game8.co/3753384/fb2f1a41db575b4e9cc26517e626c161.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.5",
+        "phase": "2",
+        "dates": {
+            "start": "2023-12-06",
+            "end": "2023-12-26"
+        },
+        "featured_5": [
+            {
+                "name": "Argenti",
+                "url": "https://img.game8.co/3899377/230f8944093a35278f34d877a8540ca3.png/show"
+            },
+            {
+                "name": "Silver Wolf",
+                "url": "https://img.game8.co/3899419/afffa6f75d327369e2ee20796d0942ff.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.5",
+        "phase": "2",
+        "dates": {
+            "start": "2023-12-06",
+            "end": "2023-12-26"
+        },
+        "featured_5": [
+            {
+                "name": "An Instant Before A Gaze",
+                "url": "https://img.game8.co/3790078/6eea8e6431bbc01a0315a2f94808c75d.png/show"
+            },
+            {
+                "name": "Incessant Rain",
+                "url": "https://img.game8.co/3753378/6d43cf267df127aadcc883438c266373.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.5",
+        "phase": "1",
+        "dates": {
+            "start": "2023-11-15",
+            "end": "2023-12-06"
+        },
+        "featured_5": [
+            {
+                "name": "Huohuo",
+                "url": "https://img.game8.co/3899380/226b90c621a962707100fc840295ae85.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.5",
+        "phase": "1",
+        "dates": {
+            "start": "2023-11-15",
+            "end": "2023-12-06"
+        },
+        "featured_5": [
+            {
+                "name": "Night of Fright",
+                "url": "https://img.game8.co/3790076/f2e6c91315ef98e768895e104d2c4fed.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.4",
+        "phase": "2",
+        "dates": {
+            "start": "2023-10-27",
+            "end": "2023-11-15"
+        },
+        "featured_5": [
+            {
+                "name": "Topaz",
+                "url": "https://img.game8.co/3750454/7de457beafd82bf0721a8d29157352b4.png/show"
+            },
+            {
+                "name": "Seele",
+                "url": "https://img.game8.co/3899424/6c9398a601d7c1d96498b5bb2f6ee0cf.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.4",
+        "phase": "2",
+        "dates": {
+            "start": "2023-10-27",
+            "end": "2023-11-15"
+        },
+        "featured_5": [
+            {
+                "name": "Worrisome, Blissful",
+                "url": "https://img.game8.co/3773608/8d9e5ebb971da6e7e2f718b0b739fc6e.png/show"
+            },
+            {
+                "name": "In the Night",
+                "url": "https://img.game8.co/3648228/d3d09296b7d793ab1b2c6a07fc557fc0.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.4",
+        "phase": "1",
+        "dates": {
+            "start": "2023-10-11",
+            "end": "2023-10-27"
+        },
+        "featured_5": [
+            {
+                "name": "Jingliu",
+                "url": "https://img.game8.co/3750003/a2907cf7fc468eacd8cdd24122b5eca9.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.4",
+        "phase": "1",
+        "dates": {
+            "start": "2023-10-11",
+            "end": "2023-10-27"
+        },
+        "featured_5": [
+            {
+                "name": "I Shall Be My Own Sword",
+                "url": "https://img.game8.co/3773609/c39250be9628e8d031a85add39235151.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.3",
+        "phase": "2",
+        "dates": {
+            "start": "2023-09-20",
+            "end": "2023-10-11"
+        },
+        "featured_5": [
+            {
+                "name": "Fu Xuan",
+                "url": "https://img.game8.co/3899471/8f7ee8e852fdc64a8c11f564b14a1d35.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.3",
+        "phase": "2",
+        "dates": {
+            "start": "2023-09-20",
+            "end": "2023-10-11"
+        },
+        "featured_5": [
+            {
+                "name": "She Already Shut Her Eyes",
+                "url": "https://img.game8.co/3753381/14ee0114c91a24b903c86f786be71662.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.3",
+        "phase": "1",
+        "dates": {
+            "start": "2023-08-29",
+            "end": "2023-09-20"
+        },
+        "featured_5": [
+            {
+                "name": "Imbibitor Lunae",
+                "url": "https://img.game8.co/3731670/80c542f9c4cbf8b42acb5e5b9b7b26b6.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.3",
+        "phase": "1",
+        "dates": {
+            "start": "2023-08-29",
+            "end": "2023-09-20"
+        },
+        "featured_5": [
+            {
+                "name": "Brighter Than the Sun",
+                "url": "https://img.game8.co/3753383/c470daebe31e0d055738d1b0f5209509.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.2",
+        "phase": "2",
+        "dates": {
+            "start": "2023-08-09",
+            "end": "2023-08-29"
+        },
+        "featured_5": [
+            {
+                "name": "Kafka",
+                "url": "https://img.game8.co/3899458/07e1e69d684f3f62496d384c5bab838c.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.2",
+        "phase": "2",
+        "dates": {
+            "start": "2023-08-09",
+            "end": "2023-08-29"
+        },
+        "featured_5": [
+            {
+                "name": "Patience Is All You Need",
+                "url": "https://img.game8.co/3753385/f9c9a9b0f83b5ef34c86e813288f39a9.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.2",
+        "phase": "1",
+        "dates": {
+            "start": "2023-07-18",
+            "end": "2023-08-09"
+        },
+        "featured_5": [
+            {
+                "name": "Blade",
+                "url": "https://img.game8.co/3899480/30b6f624d746270de9ebb362a4ac3c31.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.2",
+        "phase": "1",
+        "dates": {
+            "start": "2023-07-18",
+            "end": "2023-08-09"
+        },
+        "featured_5": [
+            {
+                "name": "The Unreachable Side",
+                "url": "https://img.game8.co/3753384/fb2f1a41db575b4e9cc26517e626c161.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.1",
+        "phase": "2",
+        "dates": {
+            "start": "2023-06-28",
+            "end": "2023-07-18"
+        },
+        "featured_5": [
+            {
+                "name": "Luocha",
+                "url": "https://img.game8.co/3899457/47c059b71cecd62fc53cce0830ca2097.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.1",
+        "phase": "2",
+        "dates": {
+            "start": "2023-06-28",
+            "end": "2023-07-18"
+        },
+        "featured_5": [
+            {
+                "name": "Echoes of the Coffin",
+                "url": "https://img.game8.co/3753379/5fc6932293a11b5b77cddc1834f707fe.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.1",
+        "phase": "1",
+        "dates": {
+            "start": "2023-06-07",
+            "end": "2023-06-28"
+        },
+        "featured_5": [
+            {
+                "name": "Silver Wolf",
+                "url": "https://img.game8.co/3899419/afffa6f75d327369e2ee20796d0942ff.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.1",
+        "phase": "1",
+        "dates": {
+            "start": "2023-06-07",
+            "end": "2023-06-28"
+        },
+        "featured_5": [
+            {
+                "name": "Incessant Rain",
+                "url": "https://img.game8.co/3753378/6d43cf267df127aadcc883438c266373.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.0",
+        "phase": "2",
+        "dates": {
+            "start": "2023-05-17",
+            "end": "2023-06-07"
+        },
+        "featured_5": [
+            {
+                "name": "Jing Yuan",
+                "url": "https://img.game8.co/3899462/00ff6e32c572242d331ff9d65727d028.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.0",
+        "phase": "2",
+        "dates": {
+            "start": "2023-05-17",
+            "end": "2023-06-07"
+        },
+        "featured_5": [
+            {
+                "name": "Before Dawn",
+                "url": "https://img.game8.co/3648237/7ed80cf60a9dc95d775d8ff49b251201.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.0",
+        "phase": "1",
+        "dates": {
+            "start": "2023-04-26",
+            "end": "2023-05-17"
+        },
+        "featured_5": [
+            {
+                "name": "Seele",
+                "url": "https://img.game8.co/3899424/6c9398a601d7c1d96498b5bb2f6ee0cf.png/show"
+            }
+        ]
+    },
+    {
+        "version": "1.0",
+        "phase": "1",
+        "dates": {
+            "start": "2023-04-26",
+            "end": "2023-05-17"
+        },
+        "featured_5": [
+            {
+                "name": "In the Night",
+                "url": "https://img.game8.co/3648228/d3d09296b7d793ab1b2c6a07fc557fc0.png/show"
+            }
+        ]
+    }
+]

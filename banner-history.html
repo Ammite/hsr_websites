@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>История баннеров</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="color-scheme" content="dark light">
+    <meta name="theme-color" content="#1a1a2e">
+</head>
+<body>
+    <div class="container">
+        <h1>История баннеров</h1>
+        <div class="links" style="margin-bottom: 20px;">
+            <a class="link-btn" href="index.html">← На главную</a>
+        </div>
+
+        <div id="banners-container" class="links"><p>Загружаю данные…</p></div>
+    </div>
+
+    <script>
+    (function renderNearestBannerDate() {
+        fetch('banners.json')
+          .then(async response => {
+            const text = await response.text();
+            if (!text) return [];
+            try { return JSON.parse(text); } catch (e) { console.error('Ошибка парсинга JSON:', e); return []; }
+          })
+          .then(data => {
+            const container = document.getElementById('banners-container');
+            container.innerHTML = '';
+
+            if (!Array.isArray(data) || data.length === 0) {
+              container.innerHTML = '<p>Не удалось загрузить историю баннеров.</p>';
+              return;
+            }
+
+            const today = new Date();
+            const startOfToday = new Date(today.getFullYear(), today.getMonth(), today.getDate()).getTime();
+
+            // Собираем события (старт/окончание) только для верхнего блока
+            const events = [];
+            data.forEach(item => {
+              const version = item?.version ?? '—';
+              const phase = item?.phase ?? null;
+              const featured = Array.isArray(item?.featured_5) ? item.featured_5 : [];
+              const start = item?.dates?.start ? new Date(item.dates.start) : null;
+              const end = item?.dates?.end ? new Date(item.dates.end) : null;
+              if (start && !isNaN(start)) events.push({ time: start.getTime(), type: 'start', version, phase, featured });
+              if (end && !isNaN(end)) events.push({ time: end.getTime(), type: 'end', version, phase, featured });
+            });
+
+            if (events.length) {
+              const future = events.filter(e => e.time >= startOfToday).sort((a,b) => a.time - b.time);
+              const past = events.filter(e => e.time < startOfToday).sort((a,b) => b.time - a.time);
+              const next = future.length ? future[0] : past[0];
+
+              const dt = new Date(next.time);
+              const dateStr = dt.toISOString().slice(0,10);
+              const phaseText = next.phase ? ` (${next.phase})` : '';
+              const featuredText = (next.featured || []).map(f => typeof f === 'string' ? f : (f?.name || '')).filter(Boolean).join(', ') || '—';
+              const label = next.type === 'start' ? 'Начало' : 'Окончание';
+
+              const block = document.createElement('div');
+              block.className = 'link-btn';
+              block.style.textAlign = 'left';
+              block.style.lineHeight = '1.4';
+              block.innerHTML = `
+                <div><strong>${label}: ${dateStr}</strong></div>
+                <div>Версия ${next.version}${phaseText}</div>
+                <div style="margin-top:6px">${featuredText}</div>
+              `;
+              container.appendChild(block);
+            }
+
+            // Полный список всех ивентов (без start/end), сверху новые
+            const title = document.createElement('h3');
+            title.textContent = 'Все баннеры';
+            container.appendChild(title);
+
+            const list = document.createElement('div');
+            list.className = 'links';
+
+            const parseMs = d => d ? new Date(d).getTime() : 0;
+            const sortedBanners = data.slice().sort((a, b) => parseMs(b?.dates?.start) - parseMs(a?.dates?.start));
+
+            sortedBanners.forEach(item => {
+              const version = item?.version ?? '—';
+              const phase = item?.phase ?? null;
+              const start = item?.dates?.start ?? '';
+              const end = item?.dates?.end ?? '';
+              const featured = Array.isArray(item?.featured_5) ? item.featured_5 : [];
+
+              const header = `${version}${phase ? ` (${phase})` : ''}`;
+              const dateLine = (start || end) ? `${start || '—'} — ${end || '—'}` : 'Даты не указаны';
+
+              const card = document.createElement('div');
+              card.className = 'link-btn';
+              card.style.textAlign = 'left';
+              card.style.lineHeight = '1.5';
+
+              // Рендер списка 5★ с учётом возможного формата { name, url }
+              const featuredHtml = featured.map(f => {
+                if (typeof f === 'string') {
+                  return `<div style="display:flex;align-items:center;gap:6px;">${f}</div>`;
+                }
+                const name = f?.name || '';
+                const url = f?.url || f?.image || '';
+                if (url) {
+                  return `<div style="display:flex;align-items:center;gap:6px;"><img src="${url}" alt="${name}" style="width:24px;height:24px;object-fit:cover;border-radius:4px;">${name}</div>`;
+                }
+                return `<div style="display:flex;align-items:center;gap:6px;">${name}</div>`;
+              }).join('');
+
+              card.innerHTML = `
+                <div><strong>${header}</strong></div>
+                <div style="opacity:0.9">${dateLine}</div>
+                <div style="margin-top:6px;display:grid;grid-template-columns:1fr;gap:4px;">${featuredHtml || '—'}</div>
+              `;
+
+              list.appendChild(card);
+            });
+
+            container.appendChild(list);
+          })
+          .catch(error => {
+            console.error('Ошибка загрузки баннеров:', error);
+            const container = document.getElementById('banners-container');
+            container.innerHTML = '<p>Не удалось загрузить историю баннеров.</p>';
+          });
+    })();
+    </script>
+</body>
+</html>
+
