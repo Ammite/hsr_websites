@@ -1,0 +1,38 @@
+name: Update Banners
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Запуск каждый день в полночь
+  workflow_dispatch:  # Возможность ручного запуска
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run script
+        run: python parse_banner_history.py
+
+      - name: Commit and push changes
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+            git config --global user.email "Ammite@users.noreply.github.com"
+            git config --global user.name "Ammite"
+
+            git pull --rebase --autostash https://$PAT@github.com/Ammite/hsr_websites.git main
+
+            git add banners.json
+            git commit -m "Обновление истории баннеров" || exit 0
+            git push origin HEAD:main
+        
