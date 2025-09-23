@@ -13,6 +13,8 @@ soup = BeautifulSoup(response.text, 'html.parser')
 codes = []
 for item in soup.select('.codes .box p.code'):
     code = item.text.strip()
+    if code.endswith(" NEW!"):
+        code = code[:-5]
     codes.append(code)
     print(code)
 
