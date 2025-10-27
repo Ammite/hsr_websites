@@ -1,5 +1,71 @@
 [
     {
+        "version": "3.8",
+        "phase": "1",
+        "dates": {
+            "start": "2025-12-16",
+            "end": "2026-01-07"
+        },
+        "featured_5": [
+            {
+                "name": "The Dahlia",
+                "url": "https://img.game8.co/4311963/c377e74897801165482d930f6a03d3f1.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.7",
+        "phase": "2",
+        "dates": {
+            "start": "2025-11-26",
+            "end": "2025-12-16"
+        },
+        "featured_5": [
+            {
+                "name": "Cyrene",
+                "url": "https://img.game8.co/4290333/096d6e53e6ac5581de695217e4dec7a5.png/show"
+            },
+            {
+                "name": "Phainon",
+                "url": "https://img.game8.co/4165361/9e36a72f4578bbd75a41f2971f5ec464.png/show"
+            },
+            {
+                "name": "Cipher",
+                "url": "https://img.game8.co/4138632/f57bdd428064adf48a34155895e678e7.png/show"
+            },
+            {
+                "name": "Mydei",
+                "url": "https://img.game8.co/4074811/d8f806b8713b2d167e2671c4b99278e7.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.7",
+        "phase": "2",
+        "dates": {
+            "start": "2025-11-26",
+            "end": "2025-12-16"
+        },
+        "featured_5": [
+            {
+                "name": "This Love, Forever",
+                "url": "https://img.game8.co/4316884/97bb93c0169cc496db9dd620f5ba5786.png/show"
+            },
+            {
+                "name": "Lies Dance on the Breeze",
+                "url": "https://img.game8.co/4168872/83edc7a4c2290f18b5cdfdd99c53a289.png/show"
+            },
+            {
+                "name": "Thus Burns the Dawn",
+                "url": "https://img.game8.co/4201279/ebc193525e38b25003da8d6f4a3fbaae.png/show"
+            },
+            {
+                "name": "Flame of Blood, Blaze My Path",
+                "url": "https://img.game8.co/4109299/a3e7ed65367b5b880eb10ff60e9649b6.png/show"
+            }
+        ]
+    },
+    {
         "version": "3.7",
         "phase": "1",
         "dates": {
@@ -10,6 +76,44 @@
             {
                 "name": "Cyrene",
                 "url": "https://img.game8.co/4290333/096d6e53e6ac5581de695217e4dec7a5.png/show"
+            },
+            {
+                "name": "Hyacine",
+                "url": "https://img.game8.co/4137692/d5bcdd1e7f7a9543dffcdd702e19926a.png/show"
+            },
+            {
+                "name": "Castorice",
+                "url": "https://img.game8.co/4104674/c7d4833be32744623796e69cd8955443.png/show"
+            },
+            {
+                "name": "Tribbie",
+                "url": "https://img.game8.co/4074798/ca2244bb4304b47283f0c7d2593a404c.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.7",
+        "phase": "1",
+        "dates": {
+            "start": "2025-11-04",
+            "end": "2025-11-26"
+        },
+        "featured_5": [
+            {
+                "name": "This Love, Forever",
+                "url": "https://img.game8.co/4316884/97bb93c0169cc496db9dd620f5ba5786.png/show"
+            },
+            {
+                "name": "Long May Rainbows Adorn the Sky",
+                "url": "https://img.game8.co/4168871/66b12ca9f3391b2506d2da9d45e01481.png/show"
+            },
+            {
+                "name": "If Time Were a Flower",
+                "url": "https://img.game8.co/4109298/05069f7270f20675584d56d1ebf70a3f.png/show"
+            },
+            {
+                "name": "Make Farewells More Beautiful",
+                "url": "https://img.game8.co/4141907/82a49c479f56ccb6d4c7e32270f15682.png/show"
             }
         ]
     },
@@ -40,12 +144,12 @@
         },
         "featured_5": [
             {
-                "name": "Life Should Be Cast to Flames",
-                "url": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show"
-            },
-            {
                 "name": "Though Worlds Apart",
                 "url": "https://img.game8.co/4277406/86af4390e708c3030f4cad71987f5e41.png/show"
+            },
+            {
+                "name": "Life Should Be Cast to Flames",
+                "url": "https://img.game8.co/4141885/719b5017394aa3ea256f67825484973f.png/show"
             }
         ]
     },
