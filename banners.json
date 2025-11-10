@@ -48,16 +48,16 @@
         },
         "featured_5": [
             {
-                "name": "This Love, Forever",
-                "url": "https://img.game8.co/4316884/97bb93c0169cc496db9dd620f5ba5786.png/show"
-            },
-            {
                 "name": "Lies Dance on the Breeze",
                 "url": "https://img.game8.co/4168872/83edc7a4c2290f18b5cdfdd99c53a289.png/show"
             },
             {
                 "name": "Thus Burns the Dawn",
                 "url": "https://img.game8.co/4201279/ebc193525e38b25003da8d6f4a3fbaae.png/show"
+            },
+            {
+                "name": "This Love, Forever",
+                "url": "https://img.game8.co/4316884/97bb93c0169cc496db9dd620f5ba5786.png/show"
             },
             {
                 "name": "Flame of Blood, Blaze My Path",
@@ -100,10 +100,6 @@
         },
         "featured_5": [
             {
-                "name": "This Love, Forever",
-                "url": "https://img.game8.co/4316884/97bb93c0169cc496db9dd620f5ba5786.png/show"
-            },
-            {
                 "name": "Long May Rainbows Adorn the Sky",
                 "url": "https://img.game8.co/4168871/66b12ca9f3391b2506d2da9d45e01481.png/show"
             },
@@ -114,6 +110,10 @@
             {
                 "name": "Make Farewells More Beautiful",
                 "url": "https://img.game8.co/4141907/82a49c479f56ccb6d4c7e32270f15682.png/show"
+            },
+            {
+                "name": "This Love, Forever",
+                "url": "https://img.game8.co/4316884/97bb93c0169cc496db9dd620f5ba5786.png/show"
             }
         ]
     },
