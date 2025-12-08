@@ -1,6 +1,78 @@
 [
     {
         "version": "3.8",
+        "phase": "3",
+        "dates": {
+            "start": "2026-01-28",
+            "end": "2026-02-12"
+        },
+        "featured_5": [
+            {
+                "name": "Aglaea",
+                "url": "https://img.game8.co/4045833/e83dc6b2353dd84813ae7c1d0adb14bc.png/show"
+            },
+            {
+                "name": "Sunday",
+                "url": "https://img.game8.co/4010974/4d201b7d582745d60c2eecdaf80c8f0c.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.8",
+        "phase": "3",
+        "dates": {
+            "start": "2026-01-28",
+            "end": "2026-02-12"
+        },
+        "featured_5": [
+            {
+                "name": "Time Woven into Gold",
+                "url": "https://img.game8.co/4075009/5173f70aab730123d0854f6c57d35a07.png/show"
+            },
+            {
+                "name": "A Grounded Ascent",
+                "url": "https://img.game8.co/4049244/b1fe087b1461b6e20613dc7b25a07459.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.8",
+        "phase": "2",
+        "dates": {
+            "start": "2026-01-07",
+            "end": "2026-01-28"
+        },
+        "featured_5": [
+            {
+                "name": "Fugue",
+                "url": "https://img.game8.co/4014497/2b73d729370dd4393da0d12602b01c98.png/show"
+            },
+            {
+                "name": "Lingsha",
+                "url": "https://img.game8.co/3934896/550a68a0585d8b5cac8f8c418d659ee9.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.8",
+        "phase": "2",
+        "dates": {
+            "start": "2026-01-07",
+            "end": "2026-01-28"
+        },
+        "featured_5": [
+            {
+                "name": "Long Road Leads Home",
+                "url": "https://img.game8.co/4049245/d8c69bc8ae4194614d9c6f3f06a01f24.png/show"
+            },
+            {
+                "name": "Scent Alone Stays True",
+                "url": "https://img.game8.co/3975086/0b0fe6f6b3a2ace99bbc84e5d2954136.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.8",
         "phase": "1",
         "dates": {
             "start": "2025-12-16",
@@ -10,6 +82,28 @@
             {
                 "name": "The Dahlia",
                 "url": "https://img.game8.co/4311963/c377e74897801165482d930f6a03d3f1.png/show"
+            },
+            {
+                "name": "Firefly",
+                "url": "https://img.game8.co/3872328/d0781159f0e9e5914d76d7ca1462674d.png/show"
+            }
+        ]
+    },
+    {
+        "version": "3.8",
+        "phase": "1",
+        "dates": {
+            "start": "2025-12-16",
+            "end": "2026-01-07"
+        },
+        "featured_5": [
+            {
+                "name": "Never Forget Her Flame",
+                "url": "https://img.game8.co/4358531/413ca3ca06da5e4ddb7d775ea74da8a6.png/show"
+            },
+            {
+                "name": "Whereabouts Should Dreams Rest",
+                "url": "https://img.game8.co/3905917/f8a6efbe29b49639384fb0ddfdef905b.png/show"
             }
         ]
     },
