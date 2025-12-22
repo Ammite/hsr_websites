@@ -1,6 +1,6 @@
 [
     {
-        "version": "3.8",
+        "version": "HSR 3.8Phase 3 Banner History",
         "phase": "3",
         "dates": {
             "start": "2026-01-28",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "version": "3.8",
+        "version": "HSR 3.8Phase 3 Banner History",
         "phase": "3",
         "dates": {
             "start": "2026-01-28",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "version": "3.8",
+        "version": "HSR 3.8Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2026-01-07",
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "version": "3.8",
+        "version": "HSR 3.8Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2026-01-07",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "version": "3.8",
+        "version": "HSR 3.8Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-12-16",
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "version": "3.8",
+        "version": "HSR 3.8Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-12-16",
@@ -98,17 +98,53 @@
         },
         "featured_5": [
             {
-                "name": "Never Forget Her Flame",
-                "url": "https://img.game8.co/4358531/413ca3ca06da5e4ddb7d775ea74da8a6.png/show"
-            },
-            {
                 "name": "Whereabouts Should Dreams Rest",
                 "url": "https://img.game8.co/3905917/f8a6efbe29b49639384fb0ddfdef905b.png/show"
+            },
+            {
+                "name": "Never Forget Her Flame",
+                "url": "https://img.game8.co/4358531/413ca3ca06da5e4ddb7d775ea74da8a6.png/show"
             }
         ]
     },
     {
-        "version": "3.7",
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Archer",
+                "url": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show"
+            },
+            {
+                "name": "Saber",
+                "url": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "The Hell Where Ideals Burn",
+                "url": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+            },
+            {
+                "name": "A Thankless Coronation",
+                "url": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 3.7Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-11-26",
@@ -134,7 +170,7 @@
         ]
     },
     {
-        "version": "3.7",
+        "version": "HSR 3.7Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-11-26",
@@ -160,7 +196,7 @@
         ]
     },
     {
-        "version": "3.7",
+        "version": "HSR 3.7Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-11-04",
@@ -186,7 +222,7 @@
         ]
     },
     {
-        "version": "3.7",
+        "version": "HSR 3.7Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-11-04",
@@ -212,7 +248,43 @@
         ]
     },
     {
-        "version": "3.6",
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Archer",
+                "url": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show"
+            },
+            {
+                "name": "Saber",
+                "url": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "The Hell Where Ideals Burn",
+                "url": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+            },
+            {
+                "name": "A Thankless Coronation",
+                "url": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 3.6Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-10-15",
@@ -230,7 +302,7 @@
         ]
     },
     {
-        "version": "3.6",
+        "version": "HSR 3.6Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-10-15",
@@ -248,7 +320,7 @@
         ]
     },
     {
-        "version": "3.6",
+        "version": "HSR 3.6Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-09-23",
@@ -266,7 +338,7 @@
         ]
     },
     {
-        "version": "3.6",
+        "version": "HSR 3.6Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-09-23",
@@ -284,7 +356,7 @@
         ]
     },
     {
-        "version": "Fate CollaborationBanners",
+        "version": "Fate CollaborationBanner History",
         "phase": null,
         "dates": {
             "start": null,
@@ -302,7 +374,7 @@
         ]
     },
     {
-        "version": "Fate CollaborationBanners",
+        "version": "Fate CollaborationBanner History",
         "phase": null,
         "dates": {
             "start": null,
@@ -320,7 +392,7 @@
         ]
     },
     {
-        "version": "3.5",
+        "version": "HSR 3.5Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-09-02",
@@ -338,7 +410,7 @@
         ]
     },
     {
-        "version": "3.5",
+        "version": "HSR 3.5Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-09-02",
@@ -356,7 +428,7 @@
         ]
     },
     {
-        "version": "3.5",
+        "version": "HSR 3.5Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-08-12",
@@ -374,7 +446,7 @@
         ]
     },
     {
-        "version": "3.5",
+        "version": "HSR 3.5Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-08-12",
@@ -392,7 +464,7 @@
         ]
     },
     {
-        "version": "Fate CollaborationBanners",
+        "version": "Fate CollaborationBanner History",
         "phase": null,
         "dates": {
             "start": null,
@@ -410,7 +482,7 @@
         ]
     },
     {
-        "version": "Fate CollaborationBanners",
+        "version": "Fate CollaborationBanner History",
         "phase": null,
         "dates": {
             "start": null,
@@ -428,7 +500,7 @@
         ]
     },
     {
-        "version": "3.4",
+        "version": "HSR 3.4Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-07-23",
@@ -450,7 +522,7 @@
         ]
     },
     {
-        "version": "3.4",
+        "version": "HSR 3.4Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-07-23",
@@ -472,7 +544,7 @@
         ]
     },
     {
-        "version": "3.4",
+        "version": "HSR 3.4Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-07-01",
@@ -498,7 +570,7 @@
         ]
     },
     {
-        "version": "3.4",
+        "version": "HSR 3.4Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-07-01",
@@ -524,7 +596,7 @@
         ]
     },
     {
-        "version": "Fate CollaborationBanners",
+        "version": "Fate CollaborationBanner History",
         "phase": null,
         "dates": {
             "start": null,
@@ -542,7 +614,7 @@
         ]
     },
     {
-        "version": "Fate CollaborationBanners",
+        "version": "Fate CollaborationBanner History",
         "phase": null,
         "dates": {
             "start": null,
@@ -560,7 +632,7 @@
         ]
     },
     {
-        "version": "3.3",
+        "version": "HSR 3.3Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-06-11",
@@ -578,7 +650,7 @@
         ]
     },
     {
-        "version": "3.3",
+        "version": "HSR 3.3Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-06-11",
@@ -596,7 +668,7 @@
         ]
     },
     {
-        "version": "3.3",
+        "version": "HSR 3.3Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-05-20",
@@ -614,7 +686,7 @@
         ]
     },
     {
-        "version": "3.3",
+        "version": "HSR 3.3Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-05-20",
@@ -632,7 +704,7 @@
         ]
     },
     {
-        "version": "3.2",
+        "version": "HSR 3.2Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-04-30",
@@ -650,7 +722,7 @@
         ]
     },
     {
-        "version": "3.2",
+        "version": "HSR 3.2Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-04-30",
@@ -668,7 +740,7 @@
         ]
     },
     {
-        "version": "3.2",
+        "version": "HSR 3.2Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-04-08",
@@ -694,7 +766,7 @@
         ]
     },
     {
-        "version": "3.2",
+        "version": "HSR 3.2Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-04-08",
@@ -720,7 +792,7 @@
         ]
     },
     {
-        "version": "3.1",
+        "version": "HSR 3.1Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-03-19",
@@ -738,7 +810,7 @@
         ]
     },
     {
-        "version": "3.1",
+        "version": "HSR 3.1Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-03-19",
@@ -756,7 +828,7 @@
         ]
     },
     {
-        "version": "3.1",
+        "version": "HSR 3.1Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-02-25",
@@ -774,7 +846,7 @@
         ]
     },
     {
-        "version": "3.1",
+        "version": "HSR 3.1Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-02-25",
@@ -792,7 +864,7 @@
         ]
     },
     {
-        "version": "3.0",
+        "version": "HSR 3.0Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-02-05",
@@ -818,7 +890,7 @@
         ]
     },
     {
-        "version": "3.0",
+        "version": "HSR 3.0Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2025-02-05",
@@ -844,7 +916,7 @@
         ]
     },
     {
-        "version": "3.0",
+        "version": "HSR 3.0Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-01-14",
@@ -870,7 +942,7 @@
         ]
     },
     {
-        "version": "3.0",
+        "version": "HSR 3.0Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2025-01-14",
@@ -896,7 +968,7 @@
         ]
     },
     {
-        "version": "2.7",
+        "version": "HSR 2.7Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-12-25",
@@ -914,7 +986,7 @@
         ]
     },
     {
-        "version": "2.7",
+        "version": "HSR 2.7Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-12-25",
@@ -932,7 +1004,7 @@
         ]
     },
     {
-        "version": "2.7",
+        "version": "HSR 2.7Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-12-03",
@@ -950,7 +1022,7 @@
         ]
     },
     {
-        "version": "2.7",
+        "version": "HSR 2.7Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-12-03",
@@ -968,7 +1040,7 @@
         ]
     },
     {
-        "version": "2.6",
+        "version": "HSR 2.6Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-11-13",
@@ -986,7 +1058,7 @@
         ]
     },
     {
-        "version": "2.6",
+        "version": "HSR 2.6Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-11-13",
@@ -1004,7 +1076,7 @@
         ]
     },
     {
-        "version": "2.6",
+        "version": "HSR 2.6Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-10-22",
@@ -1022,7 +1094,7 @@
         ]
     },
     {
-        "version": "2.6",
+        "version": "HSR 2.6Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-10-22",
@@ -1040,7 +1112,7 @@
         ]
     },
     {
-        "version": "2.5",
+        "version": "HSR 2.5Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-10-02",
@@ -1058,7 +1130,7 @@
         ]
     },
     {
-        "version": "2.5",
+        "version": "HSR 2.5Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-10-02",
@@ -1076,7 +1148,7 @@
         ]
     },
     {
-        "version": "2.5",
+        "version": "HSR 2.5Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-09-09",
@@ -1102,7 +1174,7 @@
         ]
     },
     {
-        "version": "2.5",
+        "version": "HSR 2.5Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-09-09",
@@ -1128,7 +1200,7 @@
         ]
     },
     {
-        "version": "2.4",
+        "version": "HSR 2.4Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-08-21",
@@ -1146,7 +1218,7 @@
         ]
     },
     {
-        "version": "2.4",
+        "version": "HSR 2.4Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-08-21",
@@ -1164,7 +1236,7 @@
         ]
     },
     {
-        "version": "2.4",
+        "version": "HSR 2.4Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-07-30",
@@ -1182,7 +1254,7 @@
         ]
     },
     {
-        "version": "2.4",
+        "version": "HSR 2.4Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-07-30",
@@ -1200,7 +1272,7 @@
         ]
     },
     {
-        "version": "2.3",
+        "version": "HSR 2.3Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-07-10",
@@ -1218,7 +1290,7 @@
         ]
     },
     {
-        "version": "2.3",
+        "version": "HSR 2.3Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-07-10",
@@ -1236,7 +1308,7 @@
         ]
     },
     {
-        "version": "2.3",
+        "version": "HSR 2.3Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-06-18",
@@ -1254,7 +1326,7 @@
         ]
     },
     {
-        "version": "2.3",
+        "version": "HSR 2.3Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-06-18",
@@ -1272,7 +1344,7 @@
         ]
     },
     {
-        "version": "2.2",
+        "version": "HSR 2.2Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-05-29",
@@ -1290,7 +1362,7 @@
         ]
     },
     {
-        "version": "2.2",
+        "version": "HSR 2.2Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-05-29",
@@ -1308,7 +1380,7 @@
         ]
     },
     {
-        "version": "2.2",
+        "version": "HSR 2.2Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-05-07",
@@ -1326,7 +1398,7 @@
         ]
     },
     {
-        "version": "2.2",
+        "version": "HSR 2.2Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-05-07",
@@ -1344,7 +1416,7 @@
         ]
     },
     {
-        "version": "2.1",
+        "version": "HSR 2.1Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-04-17",
@@ -1362,7 +1434,7 @@
         ]
     },
     {
-        "version": "2.1",
+        "version": "HSR 2.1Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-04-17",
@@ -1380,7 +1452,7 @@
         ]
     },
     {
-        "version": "2.1",
+        "version": "HSR 2.1Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-03-26",
@@ -1398,7 +1470,7 @@
         ]
     },
     {
-        "version": "2.1",
+        "version": "HSR 2.1Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-03-26",
@@ -1416,7 +1488,7 @@
         ]
     },
     {
-        "version": "2.0",
+        "version": "HSR 2.0Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-02-29",
@@ -1434,7 +1506,7 @@
         ]
     },
     {
-        "version": "2.0",
+        "version": "HSR 2.0Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-02-29",
@@ -1452,7 +1524,7 @@
         ]
     },
     {
-        "version": "2.0",
+        "version": "HSR 2.0Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-02-05",
@@ -1470,7 +1542,7 @@
         ]
     },
     {
-        "version": "2.0",
+        "version": "HSR 2.0Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2024-02-05",
@@ -1488,7 +1560,7 @@
         ]
     },
     {
-        "version": "1.6",
+        "version": "HSR 1.6Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-01-17",
@@ -1506,7 +1578,7 @@
         ]
     },
     {
-        "version": "1.6",
+        "version": "HSR 1.6Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2024-01-17",
@@ -1524,7 +1596,7 @@
         ]
     },
     {
-        "version": "1.6",
+        "version": "HSR 1.6Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-12-26",
@@ -1542,7 +1614,7 @@
         ]
     },
     {
-        "version": "1.6",
+        "version": "HSR 1.6Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-12-26",
@@ -1560,7 +1632,7 @@
         ]
     },
     {
-        "version": "1.5",
+        "version": "HSR 1.5Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-12-06",
@@ -1578,7 +1650,7 @@
         ]
     },
     {
-        "version": "1.5",
+        "version": "HSR 1.5Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-12-06",
@@ -1596,7 +1668,7 @@
         ]
     },
     {
-        "version": "1.5",
+        "version": "HSR 1.5Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-11-15",
@@ -1610,7 +1682,7 @@
         ]
     },
     {
-        "version": "1.5",
+        "version": "HSR 1.5Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-11-15",
@@ -1624,7 +1696,7 @@
         ]
     },
     {
-        "version": "1.4",
+        "version": "HSR 1.4Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-10-27",
@@ -1642,7 +1714,7 @@
         ]
     },
     {
-        "version": "1.4",
+        "version": "HSR 1.4Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-10-27",
@@ -1660,7 +1732,7 @@
         ]
     },
     {
-        "version": "1.4",
+        "version": "HSR 1.4Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-10-11",
@@ -1674,7 +1746,7 @@
         ]
     },
     {
-        "version": "1.4",
+        "version": "HSR 1.4Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-10-11",
@@ -1688,7 +1760,7 @@
         ]
     },
     {
-        "version": "1.3",
+        "version": "HSR 1.3Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-09-20",
@@ -1702,7 +1774,7 @@
         ]
     },
     {
-        "version": "1.3",
+        "version": "HSR 1.3Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-09-20",
@@ -1716,7 +1788,7 @@
         ]
     },
     {
-        "version": "1.3",
+        "version": "HSR 1.3Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-08-29",
@@ -1730,7 +1802,7 @@
         ]
     },
     {
-        "version": "1.3",
+        "version": "HSR 1.3Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-08-29",
@@ -1744,7 +1816,7 @@
         ]
     },
     {
-        "version": "1.2",
+        "version": "HSR 1.2Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-08-09",
@@ -1758,7 +1830,7 @@
         ]
     },
     {
-        "version": "1.2",
+        "version": "HSR 1.2Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-08-09",
@@ -1772,7 +1844,7 @@
         ]
     },
     {
-        "version": "1.2",
+        "version": "HSR 1.2Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-07-18",
@@ -1786,7 +1858,7 @@
         ]
     },
     {
-        "version": "1.2",
+        "version": "HSR 1.2Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-07-18",
@@ -1800,7 +1872,7 @@
         ]
     },
     {
-        "version": "1.1",
+        "version": "HSR 1.1Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-06-28",
@@ -1814,7 +1886,7 @@
         ]
     },
     {
-        "version": "1.1",
+        "version": "HSR 1.1Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-06-28",
@@ -1828,7 +1900,7 @@
         ]
     },
     {
-        "version": "1.1",
+        "version": "HSR 1.1Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-06-07",
@@ -1842,7 +1914,7 @@
         ]
     },
     {
-        "version": "1.1",
+        "version": "HSR 1.1Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-06-07",
@@ -1856,7 +1928,7 @@
         ]
     },
     {
-        "version": "1.0",
+        "version": "HSR 1.0 Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-05-17",
@@ -1870,7 +1942,7 @@
         ]
     },
     {
-        "version": "1.0",
+        "version": "HSR 1.0 Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": "2023-05-17",
@@ -1884,7 +1956,7 @@
         ]
     },
     {
-        "version": "1.0",
+        "version": "HSR 1.0 Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-04-26",
@@ -1898,7 +1970,7 @@
         ]
     },
     {
-        "version": "1.0",
+        "version": "HSR 1.0 Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2023-04-26",
