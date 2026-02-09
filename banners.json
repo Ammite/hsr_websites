@@ -1,5 +1,153 @@
 [
     {
+        "version": "HSR 4.0Phase 1 Banner History",
+        "phase": "1",
+        "dates": {
+            "start": "2026-02-12",
+            "end": "2026-03-03"
+        },
+        "featured_5": [
+            {
+                "name": "Yao Guang",
+                "url": "https://img.game8.co/4376746/a258bf8d78850b8d8d2c436091016560.png/show"
+            },
+            {
+                "name": "Evernight",
+                "url": "https://img.game8.co/4240167/179a9e473f3e2dcc0242b45458605f87.png/show"
+            },
+            {
+                "name": "Hysilens",
+                "url": "https://img.game8.co/4197866/b8008b5796ced1fec83d66665197b7dd.png/show"
+            },
+            {
+                "name": "Black Swan",
+                "url": "https://img.game8.co/3807686/fa433902a0f028d81123aa25322021d3.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.0Phase 1 Banner History",
+        "phase": "1",
+        "dates": {
+            "start": "2026-02-12",
+            "end": "2026-03-03"
+        },
+        "featured_5": [
+            {
+                "name": "When She Decided to See",
+                "url": "https://img.game8.co/4408373/edfa4141c0d5548a7f20d86dedba9018.png/show"
+            },
+            {
+                "name": "Why Does the Ocean Sing",
+                "url": "https://img.game8.co/4240013/c03c4806652c143f0463a1c66498d208.png/show"
+            },
+            {
+                "name": "Reforged Remembrance",
+                "url": "https://img.game8.co/3827689/7e76c19f3dfc5ca584075564be1f4c4a.png/show"
+            },
+            {
+                "name": "To Evernight",
+                "url": "https://img.game8.co/4277407/8e5524cd539c73337ec02a8636ea6acd.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.0Phase 2 Banner History",
+        "phase": "2",
+        "dates": {
+            "start": "2026-03-03",
+            "end": "2026-03-24"
+        },
+        "featured_5": [
+            {
+                "name": "Sparxie",
+                "url": "https://img.game8.co/4377005/0ca40ea822237b8f5beb3a513af7acac.png/show"
+            },
+            {
+                "name": "Yao Guang",
+                "url": "https://img.game8.co/4376746/a258bf8d78850b8d8d2c436091016560.png/show"
+            },
+            {
+                "name": "Cerydra",
+                "url": "https://img.game8.co/4198742/c7e8758b57025c346759b7f2db800f3d.png/show"
+            },
+            {
+                "name": "Rappa",
+                "url": "https://img.game8.co/4029048/53f27f108863a813ae1ca1d22aa50d40.png/show"
+            },
+            {
+                "name": "Sparkle",
+                "url": "https://img.game8.co/3808836/a30de2a01761cf7046681553ecd51764.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.0Phase 2 Banner History",
+        "phase": "2",
+        "dates": {
+            "start": "2026-03-03",
+            "end": "2026-03-24"
+        },
+        "featured_5": [
+            {
+                "name": "When She Decided to See",
+                "url": "https://img.game8.co/4408373/edfa4141c0d5548a7f20d86dedba9018.png/show"
+            },
+            {
+                "name": "Dazzled by a Flowery World",
+                "url": "https://img.game8.co/4408377/475599ad8131a69aeec4100bc54632ea.png/show"
+            },
+            {
+                "name": "Ninjutsu Inscription - Dazzling Evilbreaker",
+                "url": "https://img.game8.co/4015238/1ba5cdd4ba7f226e065f2d73c256eced.png/show"
+            },
+            {
+                "name": "Epoch Etched in Golden Blood",
+                "url": "https://img.game8.co/4240012/bb7a5c8c13f25e7886fdd2d2eb3a79a1.png/show"
+            },
+            {
+                "name": "Earthly Escapade",
+                "url": "https://img.game8.co/3827695/1313a3be46ba675d5148a0c212ecdf95.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Archer",
+                "url": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show"
+            },
+            {
+                "name": "Saber",
+                "url": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "The Hell Where Ideals Burn",
+                "url": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+            },
+            {
+                "name": "A Thankless Coronation",
+                "url": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+            }
+        ]
+    },
+    {
         "version": "HSR 3.8Phase 3 Banner History",
         "phase": "3",
         "dates": {
