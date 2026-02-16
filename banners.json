@@ -1,5 +1,50 @@
 [
     {
+        "version": "HSR 4.1Banner History",
+        "phase": null,
+        "dates": {
+            "start": "2026-03-24",
+            "end": "2026-04-21"
+        },
+        "featured_5": []
+    },
+    {
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Archer",
+                "url": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show"
+            },
+            {
+                "name": "Saber",
+                "url": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "The Hell Where Ideals Burn",
+                "url": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+            },
+            {
+                "name": "A Thankless Coronation",
+                "url": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+            }
+        ]
+    },
+    {
         "version": "HSR 4.0Phase 1 Banner History",
         "phase": "1",
         "dates": {
