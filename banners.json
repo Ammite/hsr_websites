@@ -79,16 +79,16 @@
         },
         "featured_5": [
             {
-                "name": "When She Decided to See",
-                "url": "https://img.game8.co/4408373/edfa4141c0d5548a7f20d86dedba9018.png/show"
-            },
-            {
                 "name": "Why Does the Ocean Sing",
                 "url": "https://img.game8.co/4240013/c03c4806652c143f0463a1c66498d208.png/show"
             },
             {
                 "name": "Reforged Remembrance",
                 "url": "https://img.game8.co/3827689/7e76c19f3dfc5ca584075564be1f4c4a.png/show"
+            },
+            {
+                "name": "When She Decided to See",
+                "url": "https://img.game8.co/4408373/edfa4141c0d5548a7f20d86dedba9018.png/show"
             },
             {
                 "name": "To Evernight",
@@ -135,10 +135,6 @@
         },
         "featured_5": [
             {
-                "name": "When She Decided to See",
-                "url": "https://img.game8.co/4408373/edfa4141c0d5548a7f20d86dedba9018.png/show"
-            },
-            {
                 "name": "Dazzled by a Flowery World",
                 "url": "https://img.game8.co/4408377/475599ad8131a69aeec4100bc54632ea.png/show"
             },
@@ -149,6 +145,10 @@
             {
                 "name": "Epoch Etched in Golden Blood",
                 "url": "https://img.game8.co/4240012/bb7a5c8c13f25e7886fdd2d2eb3a79a1.png/show"
+            },
+            {
+                "name": "When She Decided to See",
+                "url": "https://img.game8.co/4408373/edfa4141c0d5548a7f20d86dedba9018.png/show"
             },
             {
                 "name": "Earthly Escapade",
