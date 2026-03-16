@@ -1,12 +1,129 @@
 [
     {
-        "version": "HSR 4.1Banner History",
-        "phase": null,
+        "version": "HSR 4.2Phase 1 Banner History",
+        "phase": "1",
         "dates": {
-            "start": "2026-03-24",
-            "end": "2026-04-21"
+            "start": "2026-04-21",
+            "end": null
         },
         "featured_5": []
+    },
+    {
+        "version": "HSR 4.2Phase 2 Banner History",
+        "phase": "2",
+        "dates": {
+            "start": null,
+            "end": "2026-06-02"
+        },
+        "featured_5": []
+    },
+    {
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Archer",
+                "url": "https://img.game8.co/4164169/c4e56feb588ab15e0ecf85b432b4cc74.png/show"
+            },
+            {
+                "name": "Saber",
+                "url": "https://img.game8.co/4164168/ae9e16e68c77438899098ffb89ebaacc.png/show"
+            }
+        ]
+    },
+    {
+        "version": "Fate CollaborationBanner History",
+        "phase": null,
+        "dates": {
+            "start": null,
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "The Hell Where Ideals Burn",
+                "url": "https://img.game8.co/4201270/f066bfb3d154f0b7eeeecbbc33c79bf6.png/show"
+            },
+            {
+                "name": "A Thankless Coronation",
+                "url": "https://img.game8.co/4201285/acdf470e97d859890dc47eaa1ab49949.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.1Phase 1 Banner History",
+        "phase": "1",
+        "dates": {
+            "start": "2026-03-24",
+            "end": "2026-04-08"
+        },
+        "featured_5": [
+            {
+                "name": "Ashveil",
+                "url": "https://img.game8.co/4408797/553d6e9892db8a130aceb671075acc07.png/show"
+            },
+            {
+                "name": "Hyacine",
+                "url": "https://img.game8.co/4137692/d5bcdd1e7f7a9543dffcdd702e19926a.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.1Phase 1 Banner History",
+        "phase": "1",
+        "dates": {
+            "start": "2026-03-24",
+            "end": "2026-04-08"
+        },
+        "featured_5": [
+            {
+                "name": "The Finale of a Lie",
+                "url": "https://img.game8.co/4440899/fb8d4a2d80b9fdb1735ddb8bd3640c2c.png/show"
+            },
+            {
+                "name": "Long May Rainbows Adorn the Sky",
+                "url": "https://img.game8.co/4168871/66b12ca9f3391b2506d2da9d45e01481.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.1Phase 2 Banner History",
+        "phase": "2",
+        "dates": {
+            "start": "2026-04-08",
+            "end": "2026-04-21"
+        },
+        "featured_5": [
+            {
+                "name": "Ashveil",
+                "url": "https://img.game8.co/4408797/553d6e9892db8a130aceb671075acc07.png/show"
+            },
+            {
+                "name": "Boothill",
+                "url": "https://img.game8.co/3899342/af65ac2c6e1cd81d4ae61b6375fcc3f6.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.1Phase 2 Banner History",
+        "phase": "2",
+        "dates": {
+            "start": "2026-04-08",
+            "end": "2026-04-21"
+        },
+        "featured_5": [
+            {
+                "name": "The Finale of a Lie",
+                "url": "https://img.game8.co/4440899/fb8d4a2d80b9fdb1735ddb8bd3640c2c.png/show"
+            },
+            {
+                "name": "Sailing Towards A Second Life",
+                "url": "https://img.game8.co/3875056/ab541d3662eae699b993078f5bf17039.png/show"
+            }
+        ]
     },
     {
         "version": "Fate CollaborationBanner History",
@@ -135,10 +252,6 @@
         },
         "featured_5": [
             {
-                "name": "Dazzled by a Flowery World",
-                "url": "https://img.game8.co/4408377/475599ad8131a69aeec4100bc54632ea.png/show"
-            },
-            {
                 "name": "Ninjutsu Inscription - Dazzling Evilbreaker",
                 "url": "https://img.game8.co/4015238/1ba5cdd4ba7f226e065f2d73c256eced.png/show"
             },
@@ -149,6 +262,10 @@
             {
                 "name": "When She Decided to See",
                 "url": "https://img.game8.co/4408373/edfa4141c0d5548a7f20d86dedba9018.png/show"
+            },
+            {
+                "name": "Dazzled by a Flowery World",
+                "url": "https://img.game8.co/4408377/475599ad8131a69aeec4100bc54632ea.png/show"
             },
             {
                 "name": "Earthly Escapade",
