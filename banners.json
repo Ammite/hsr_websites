@@ -1,21 +1,116 @@
 [
     {
+        "version": "HSR 4.3Phase 1 Banner History",
+        "phase": "1",
+        "dates": {
+            "start": "2026-06-02",
+            "end": "2026-06-24"
+        },
+        "featured_5": []
+    },
+    {
         "version": "HSR 4.2Phase 1 Banner History",
         "phase": "1",
         "dates": {
             "start": "2026-04-21",
             "end": null
         },
-        "featured_5": []
+        "featured_5": [
+            {
+                "name": "Silver Wolf Lv.999",
+                "url": "https://img.game8.co/4435994/1f85867c7fbc4dd9185f8e211be68fcb.png/show"
+            },
+            {
+                "name": "The Dahlia",
+                "url": "https://img.game8.co/4311963/c377e74897801165482d930f6a03d3f1.png/show"
+            },
+            {
+                "name": "Castorice",
+                "url": "https://img.game8.co/4104674/c7d4833be32744623796e69cd8955443.png/show"
+            },
+            {
+                "name": "Firefly",
+                "url": "https://img.game8.co/3872328/d0781159f0e9e5914d76d7ca1462674d.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.2Phase 1 Banner History",
+        "phase": "1",
+        "dates": {
+            "start": "2026-04-21",
+            "end": null
+        },
+        "featured_5": [
+            {
+                "name": "Make Farewells More Beautiful",
+                "url": "https://img.game8.co/4141907/82a49c479f56ccb6d4c7e32270f15682.png/show"
+            },
+            {
+                "name": "Whereabouts Should Dreams Rest",
+                "url": "https://img.game8.co/3905917/f8a6efbe29b49639384fb0ddfdef905b.png/show"
+            },
+            {
+                "name": "Never Forget Her Flame",
+                "url": "https://img.game8.co/4358531/413ca3ca06da5e4ddb7d775ea74da8a6.png/show"
+            },
+            {
+                "name": "Welcome to the Cosmic City",
+                "url": "https://img.game8.co/4465787/815d5095bcbf0b2aeaf042e94a0955e4.png/show"
+            }
+        ]
     },
     {
         "version": "HSR 4.2Phase 2 Banner History",
         "phase": "2",
         "dates": {
             "start": null,
-            "end": "2026-06-02"
+            "end": "2026-06-01"
         },
-        "featured_5": []
+        "featured_5": [
+            {
+                "name": "Evanescia",
+                "url": "https://img.game8.co/4436704/b84cd711108861fab1e4681756c3b455.png/show"
+            },
+            {
+                "name": "Tribbie",
+                "url": "https://img.game8.co/4074798/ca2244bb4304b47283f0c7d2593a404c.png/show"
+            },
+            {
+                "name": "Sunday",
+                "url": "https://img.game8.co/4010974/4d201b7d582745d60c2eecdaf80c8f0c.png/show"
+            },
+            {
+                "name": "Feixiao",
+                "url": "https://img.game8.co/3934366/25477ebd5dd658e55460ee4de57ee35d.png/show"
+            }
+        ]
+    },
+    {
+        "version": "HSR 4.2Phase 2 Banner History",
+        "phase": "2",
+        "dates": {
+            "start": null,
+            "end": "2026-06-01"
+        },
+        "featured_5": [
+            {
+                "name": "If Time Were a Flower",
+                "url": "https://img.game8.co/4109298/05069f7270f20675584d56d1ebf70a3f.png/show"
+            },
+            {
+                "name": "A Grounded Ascent",
+                "url": "https://img.game8.co/4049244/b1fe087b1461b6e20613dc7b25a07459.png/show"
+            },
+            {
+                "name": "I Venture Forth to Hunt",
+                "url": "https://img.game8.co/3975085/da697ccc7eb5870fc90a636ee9d06648.png/show"
+            },
+            {
+                "name": "Until the Flowers Bloom Again",
+                "url": "https://img.game8.co/4465789/6944a4578bce00ffa81a6e8f5e20273f.png/show"
+            }
+        ]
     },
     {
         "version": "Fate CollaborationBanner History",
